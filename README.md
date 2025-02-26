@@ -1,6 +1,6 @@
 ## Hi there 👋🏿
-Am Lucie Njeri Kariuki a curious and passionate individual who loves exploring the world of technology and innovation.💻
-am looking forward to bridge the gap between user-friendly designs and powerful back-end systems-aiming to become a fullstack Developer who creates seamless,dynamic  experinces from start to finish!.
+I am Lucie Njeri Kariuki a curious and passionate individual who loves exploring the world of technology and innovation.💻
+I am looking forward to bridge the gap between user-friendly designs and powerful back-end systems-aiming to become a fullstack Developer who creates seamless,dynamic  experinces from start to finish!.
 - 🌱 I’m currently coding my way through python🐍 turning ideas into reality one line at a time.
 - 👯 I’m looking to collaborate on exciting projects and tackle challenges head-on
 - 🤔 I’m looking for help with Coding Tips
@@ -13,8 +13,7 @@ am looking forward to bridge the gap between user-friendly designs and powerful 
 
 ###
   
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lucy Kariuki Njeri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kariukilucie15@gmail.com) 
+## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kariukilucie15@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
