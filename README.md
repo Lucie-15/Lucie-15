@@ -2,7 +2,7 @@
 
 🎬 Filmmaker in the making | 💻 Full Stack Dev | 📊 Data Analysis Explorer
 
-I love blending storytelling and technology — whether it’s through analyzing big data, building apps from scratch, or capturing stories on film.
+I love blending storytelling and technology — whether it’s through analyzing big data, building apps from scratch or capturing stories on film.
 
 🌟 What I do
 
