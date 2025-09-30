@@ -13,7 +13,7 @@ I love blending storytelling and technology — whether it’s through analyzing
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h1 align="center">Hello there, I'm Lucy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Kenya, Nairobi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucie-15&label=Profile%20views&color=0e75b6&style=flat" alt="lucie-15" /> </p>
 
